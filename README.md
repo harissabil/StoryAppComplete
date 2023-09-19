@@ -9,11 +9,11 @@ Android app for the final submission of Dicoding [Belajar Pengembangan Aplikasi 
 ## Screenshot
 | Splash Screen | Register | Login |
 | --- | --- | --- |
-| ![](assets/ss/welcome.png?raw=true) | ![](assets/ss/register.png?raw=true) | ![](assets/ss/login.png?raw=true) |
+| ![](assets/welcome.png?raw=true) | ![](assets/register.png?raw=true) | ![](assets/login.png?raw=true) |
 
 | Home | Map | Create New Story |
 | --- | --- | --- |
-| ![](assets/ss/home.png?raw=true) | ![](assets/ss/map.png?raw=true) | ![](assets/ss/create.png?raw=true) |
+| ![](assets/home.png?raw=true) | ![](assets/map.png?raw=true) | ![](assets/create.png?raw=true) |
 
 ## Tech Stack
 
