@@ -26,7 +26,6 @@ List of technologies used in this app.
 - [MVVM](https://developer.android.com/topic/architecture)
 - [Android Jetpack](https://developer.android.com/jetpack/)
 - [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
-- [Glide](https://github.com/bumptech/glide)
 - [Coil](https://github.com/coil-kt/coil)
 - [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 - [DataStore](https://developer.android.com/jetpack/androidx/releases/datastore)
