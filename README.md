@@ -42,4 +42,4 @@ List of technologies used in this app.
 To build this project, you need the latest stable version of [Android Studio](https://developer.android.com/studio).
 
 1. Clone or download the project and open it in Android Studio.
-2. Sync the project with Gradle and run the app on an Android emulator or a physical Android device.
+2. Build and run the app on an Android emulator or a physical Android device.
