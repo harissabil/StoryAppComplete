@@ -3,11 +3,11 @@
 Story App Complete is my submission app for [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/academies/352) class from Dicoding.
 
 ## Table of Contents
-- [Screenshot](#screenshot)
-- [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Tech Stacks](#tech-stacks)
 - [Setup](#setup)
 
-## Screenshot
+## Screenshots
 <table>
   <tbody>
     <tr>
@@ -23,7 +23,7 @@ Story App Complete is my submission app for [Belajar Pengembangan Aplikasi Andro
   </tbody>
 </table>
 
-## Tech Stack
+## Tech Stacks
 
 List of technologies used in this app.
 - Language: [Kotlin](https://kotlinlang.org)
